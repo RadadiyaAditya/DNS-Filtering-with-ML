@@ -16,5 +16,4 @@ We aim to solve this problem using SDNs and ML.
 ### Setup
 - Operating System = Windows 11
 - Programming Language = Python3
-- APIs = beautifulsoup, bert embeddings, ryu, scapy
-- Platform = Mininet / OpenFlow13.
+- APIs = beautifulsoup, Huggings Face, Sentence transformers, scapy
